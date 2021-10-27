@@ -64,6 +64,7 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
     1200-1170/12
     
 Các class trong Grid Bootstrap: Có 4 class:
+
     . xs : cực nhỏ ( các thiết bị là phone )
     . sm : nhỏ ( các thiết bị máy tính bảng )
     . md : vừa ( màn hình desktop )
