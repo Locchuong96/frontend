@@ -1,5 +1,5 @@
 # Frontend
-Bootstrap, html, css, javscript,etc
+html,css,javscript,Bootstrap,etc
 
 ## html
 
