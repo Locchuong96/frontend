@@ -43,8 +43,8 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
    
 ### 3/ Container
     
-    container cung cấp các layout có độ rộng cố định trong một lớp container
+    container: cung cấp các layout có độ rộng cố định trong một lớp container
     
-    container-fluid cung cấp các layout có động rộng toàn màn hình
+    container-fluid: cung cấp các layout có động rộng toàn màn hình
     
    *Note: Các container này không được phép lồng vào nhau
