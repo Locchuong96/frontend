@@ -40,3 +40,11 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
    width = device-width: sẽ hiện thị tùy theo độ rộng của thiết bị
    
    initial-scale = 1: mức zoom mặc định ban đầu
+   
+### 3/ Container
+    
+    container cung cấp các layout có độ rộng cố định trong một lớp container
+    
+    container-fluid cung cấp các layout có động rộng toàn màn hình
+    
+   *Note: Các container này không được phép lồng vào nhau
