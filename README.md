@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=R6plN3FvzFY&list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCM
 
 https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
 
-___________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
+
 ## Bootstrap
 
 https://www.youtube.com/watch?v=-bbE-eUvYTI&list=PLxF76yfppeZY9Nn90xAAnA04AvzBiS9zA
@@ -33,6 +34,9 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
     </html>
 
 ### 2/ mobile first
+    
     <meta name='viewport' content='width=device-width, initial-scale=1'>
+    
    width = device-width: sẽ hiện thị tùy theo độ rộng của thiết bị
+   
    initial-scale = 1: mức zoom mặc định ban đầu
