@@ -69,3 +69,21 @@ Các class trong Grid Bootstrap: Có 4 class:
     . sm : nhỏ ( các thiết bị máy tính bảng )
     . md : vừa ( màn hình desktop )
     . lg : lớn ( màn hình desktop lớn )
+   
+Hệ thống grid bootstrap
+
+    <div class = 'container'>
+        <div class = 'row'>
+            <div class = 'col-*-*'></div>
+        </div>
+        <div class = 'row'>
+            <div class = 'col-*-*'></div>
+            <div class = 'col-*-*'></div>
+            <div class = 'col-*-*'></div>
+        </div>
+        <div class = 'row>
+        ...
+        </div>
+    </div>
+        
+        
