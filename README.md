@@ -11,7 +11,7 @@ Add smart page ruler
 
 https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
 
-___________________________________________________
+___________________________________________________________________________________________________________________________________________________________________________________
 ## Bootstrap
 
 https://www.youtube.com/watch?v=-bbE-eUvYTI&list=PLxF76yfppeZY9Nn90xAAnA04AvzBiS9zA
