@@ -17,6 +17,8 @@ ________________________________________________________________________________
 
 https://www.youtube.com/watch?v=-bbE-eUvYTI&list=PLxF76yfppeZY9Nn90xAAnA04AvzBiS9zA
 
+https://www.youtube.com/watch?v=qIewm54rTF4&list=RDCMUC8vjHOEYlnVTqAgE6CFDm_Q&start_radio=1&rv=qIewm54rTF4&t=1118
+
 ## Download Bootstrap
 
 https://getbootstrap.com/docs/5.1/getting-started/download/
@@ -41,10 +43,17 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
    
    initial-scale = 1: mức zoom mặc định ban đầu
    
-### 3/ Container
+### 3/ Khai báo CDN
+
+    <link rel = 'stylesheet' href = 'http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+    <script src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>
+    <script src = 'http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js></script>
+    
+### 4/ Container
     
     container: cung cấp các layout có độ rộng cố định trong một lớp container
     
     container-fluid: cung cấp các layout có động rộng toàn màn hình
     
    *Note: Các container này không được phép lồng vào nhau
+
