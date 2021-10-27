@@ -1,7 +1,7 @@
 # Frontend
 html,css,javscript,Bootstrap,etc
 
-## html
+# html,css
 
 https://www.youtube.com/watch?v=R6plN3FvzFY&list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz
 
@@ -13,7 +13,7 @@ https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphd
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-## Bootstrap
+# Bootstrap
 
 https://www.youtube.com/watch?v=-bbE-eUvYTI&list=PLxF76yfppeZY9Nn90xAAnA04AvzBiS9zA
 
@@ -47,7 +47,7 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
 
     <link rel = 'stylesheet' href = 'http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
     <script src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>
-    <script src = 'http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js></script>
+    <script src = 'http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
     
 ### 4/ Container
     
