@@ -56,4 +56,8 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
     container-fluid: cung cấp các layout có động rộng toàn màn hình
     
    *Note: Các container này không được phép lồng vào nhau
+   
+### 5/ Grid
+
+<img width="605" alt="bootstrap_4_grid" src="https://user-images.githubusercontent.com/73679364/139051320-8e992b27-7951-471c-88c7-e3d570dbf651.png">
 
