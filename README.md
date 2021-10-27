@@ -61,3 +61,10 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
 
 <img width="605" alt="bootstrap_4_grid" src="https://user-images.githubusercontent.com/73679364/139051320-8e992b27-7951-471c-88c7-e3d570dbf651.png">
 
+    1200-1170/12
+    
+Các class trong Grid Bootstrap: Có 4 class:
+    . xs : cực nhỏ ( các thiết bị là phone )
+    . sm : nhỏ ( các thiết bị máy tính bảng )
+    . md : vừa ( màn hình desktop )
+    . lg : lớn ( màn hình desktop lớn )
