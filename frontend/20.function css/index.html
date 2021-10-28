@@ -1,0 +1,44 @@
+<!doctype hmtl>
+<html>
+    <head>
+        <title>
+            Background-shorthand
+        </title>
+        <style>
+            html,body{
+                margin: 0;
+            }
+
+            .header{
+                width: calc((120px + 50px)*2/3 + 50%);
+                height: 30vh;
+                background: rgb(244,244,23) no-repeat center /contain
+            }
+
+            .header::after {
+                content: attr(data-title);
+            }
+
+            a::after {
+                content: "(" attr(href) ")";
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class = 'header' data-title='Hello world!'>
+        </div>
+        <div>
+            <h1> CSS Function </h1>
+            <ol>
+            <li>var()</li>
+            <li>linear-gradient</li>
+            <li>rgba()</li>
+            <li>rbg()</li>
+            <li>calc()</li>
+            <li>attr()</li>
+            </ol>
+        </div>
+        <a href = 'https://www.youtube.com/watch?v=IOZjXLKpUU4'> Nghe nhạc </a>
+    </body>
+</html>

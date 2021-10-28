@@ -1,0 +1,86 @@
+<!doctype hmtl>
+<html>
+    <head>
+        <title>
+            Background-Image
+        </title>
+        <style>
+            html,body{
+                margin: 0;
+            }
+            .header{
+                width: 100%;
+                height: 100vh;
+                background-image:url(https://www.onlygfx.com/wp-content/uploads/2017/10/grunge-banner-3-10.png);
+                background-size: 100%;
+                background-repeat: no-repeat;
+
+                /*Giá trị tuyệt đối background-size: 1000px;
+                Giá trị tương đối 100% lấy theo kích thước của header background-size: 100%;
+                Giá trị tương đối 100% lấy theo kích thước của header background-size: 100% ngang;
+                Giá trị tương đối 100% lấy theo kích thước của header background-size: 100% ngang 100% cao ;
+                Giá trị tương đối 100% lấy theo kích thước của header background-size: 100% auto ngang;
+                background-repeat: repeat;
+                background-repeat: repeat-x;
+                background-repeat: repeat-y;
+                */
+            }
+
+            .header-clg{
+                width: 100%;
+                height: 100vh;
+                background-image: linear-gradient(0,#333,#ccc);
+                /*hướng xoay: 0,45deg,-90deg
+                màu bắt đầu:
+                màu kết thúc:
+                */
+            }
+
+            .header-rgba{
+                width: 100%;
+                height: 100vh;
+                background-image: linear-gradient(0,rgba(5,51,0,0.5),rgba(255,51,0,0.5)),
+                    url(https://www.onlygfx.com/wp-content/uploads/2017/10/grunge-banner-3-10.png);
+                background-size:100%; 
+                background-repeat: no-repeat;
+                /*hướng xoay: 0,45deg,-90deg
+                màu bắt đầu:
+                màu kết thúc:
+                */
+            }
+
+            .header-rgba{
+                width: 100%;
+                height: 100vh;
+                background-image: linear-gradient(0,rgba(5,51,0,0.5),rgba(255,51,0,0.5)),
+                    url(https://www.onlygfx.com/wp-content/uploads/2017/10/grunge-banner-3-10.png);
+                background-size:100%; 
+                background-repeat: no-repeat;
+                /*hướng xoay: 0,45deg,-90deg
+                màu bắt đầu:
+                màu kết thúc:
+                */
+            }
+
+            .header-rp{
+                width: 100%;
+                height: 100vh;
+                background-image:url(data:image/png;base64,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);
+                background-size:100x; 
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class = 'header'>
+        </div>
+        <div class = 'header-clg'>
+        </div>
+        <div class = 'header-rgba'>
+        </div>
+        <div class = 'header-rgba'>
+        </div>
+        <div class = 'header-rp'>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    frontsize: 50px;
+}
+
+li {
+    color :blueviolet;
+}
+
+* {
+    color: orange;
+}
+
+html {
+    color:black;
+}

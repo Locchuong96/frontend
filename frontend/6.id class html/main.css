@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+#first-heading {
+    color: green;
+    frontsize: 50px;
+}
+
+.second-heading {
+    color: pink;
+    frontsize: 40px;
+}

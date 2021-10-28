@@ -1,0 +1,80 @@
+<!doctype hmtl>
+<html>
+    <head>
+        <title>Unit css</title>
+    </head>
+    <style>
+        .box{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+        }
+        .box-rel{
+            width: 50%;
+            height: 100px;
+            background-color: red;
+        }
+
+        h1 {
+            front-size:40px;
+        }
+
+        html {
+            font-size:20px;
+        }
+
+        .rem-li {
+            font-size: 2rem;
+        }
+        .em-li {
+            font-size: 1em;
+        }
+        /* vw: viewport - width % chiều rộng bằng màn hình
+        , vh: viewport - height  % chiều cao bằng màn hình
+        */
+
+        .box-vw{
+            width: 50vw;
+            height: 100px;
+            background-color: blue;
+        }
+
+        .box-vh{
+            width: 100px;
+            height: 50vh;
+            background-color: green;
+        }
+
+    </style>
+    <body style = 'font-size = 30px'>
+        <div class ='box'></div>
+        <!--tham chiếu tới chiều rộng của the body-->
+        <div class ='box-rel'></div>
+        <div class ='box-vw'></div>
+        <div class ='box-vh'></div>
+        <div>
+            <h1>Absolute units</h1>
+            <ul>
+                <li>px</li>
+                <li>pt</li>
+                <li>cm</li>
+                <li>mm</li>
+                <li>inch</li>
+                <li>px</li>
+            </ul>
+            <br>
+            <h1>Relative units</h1>
+            <ul>
+                <li>%</li>
+                <li class = 'rem-li'>rem Phụ thuộc vào độ lớn của tag html, 100% = 16px</li>
+                <li class = 'em-li'>em Phụ thuộc vào thẻ có định nghĩa css tuyệt đối gần nhất</li>
+                <li>vw</li>
+                <li>vh</li>
+                <li>vmin</li>
+                <li>vmax</li>
+                <li>ex</li>
+                <li>ch</li>
+            </ul>
+        </div>
+    </body>
+</html>

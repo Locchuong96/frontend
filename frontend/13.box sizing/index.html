@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+    <head>
+        <title>
+         Box sizing
+        </title>
+        <style>
+            .box {
+                width: 64px;
+                height: 64px;
+                color: #fff;
+                background-color: darkorchid;
+                padding: 16px;
+                border: 2px solid #333;
+            }
+            .s-box {
+                width: 100px;
+                height: 100px;
+                color: #fff;
+                background-color: darkorchid;
+                padding: 16px;
+                border: 2px solid #000;
+                box-sizing: border-box;
+                /*box-sizing: content-box;
+                    box-sizing: unset;
+                */
+            }
+        </style>
+    </head>
+    <body>
+        <div class = 'box'>
+        Đây là nội dung bài viết
+        </div>
+        <div class = 's-box'>
+        Đây là nội dung bài viết với box sizing
+        </div>
+    </body>
+</html>

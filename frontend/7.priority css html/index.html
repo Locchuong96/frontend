@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel = 'stylesheet' href = './main.css'>
+        <title>
+            Priority
+        </title>
+        <style>
+            h1 { 
+                color: blue;
+                font-size: 60px;
+            }
+
+            .class-item{
+                color: pink;
+                font-size: 40px; 
+            }
+
+            #id-item{
+                color:red;
+                font-size:50px;
+            }
+
+            #id-item.class-item{
+                color:black;
+                font-size:50px;
+            }
+
+
+        </style>
+
+    </head>
+    <body>
+        <h1> Priority </h1>
+        <ol>
+            <li class = 'class-item' id = 'id-item' style ='color:yellow ; front-size: 70px;' title = 'nội tuyến'> inline - 1000</li>
+            <li class = 'class-item' id = 'id-item'> #id - 100 </li>
+            <li class = 'class-item'> .class - 10 </li>
+            <li> Equal specificity, priority for newest</li>
+            <li class = 'class-item' id = 'id-item'> class.id - 110 </li>
+            <li> tag - 1 </li>
+            <li> Internal, External?</li>
+        </ol>
+        <p> Universal - 0 </p>
+        <p> Inherited - 0 </p>
+    </body>
+</html>
