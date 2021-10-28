@@ -7,10 +7,18 @@ https://www.youtube.com/watch?v=R6plN3FvzFY&list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCM
 
 ### Install extentsion "live server"
 
-### Add smart page ruler
+
+![Capture](https://user-images.githubusercontent.com/73679364/139242953-feafce99-6d65-4d81-8584-475e82dd3189.PNG)
+ 
+### Add smart page ruler extension
 
 https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
 
+## Add colorzilla extension
+
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=vi
+
+![Capture](https://user-images.githubusercontent.com/73679364/139242665-7e4f4885-f277-40ea-90d4-256867003e12.PNG)
 _________________________________________________________________________________________________________________________________________________________________________________
 
 # Bootstrap
