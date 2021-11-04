@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+    <head>
+        <title>pseudo</title>
+        <meta charset = 'utf-8'>
+        <style>
+            html,body {
+                margin: 0;
+            }
+            .box {
+                width: 100%;
+                height: 120px;
+                background: rgb(190, 124, 157);
+            }
+
+            .box1 {
+                width: 100%;
+                height: 120px;
+                background: rgb(190, 124, 157);
+            }
+
+            .box:hover {
+                background-color: #333;
+            }
+
+            .box1:active {
+                background-color: #333;
+            }
+
+            h1:active {
+                color: red;
+                }
+
+            li:first-child {
+                color: red;
+             }
+            
+            li:last-child {
+                color: red;
+                font-size: 16px;
+            }
+            }
+        </style>
+    </head>
+    <body>
+        <div class = 'box'>hover</div>
+        <div class = 'box1'>active</div>
+        <h1> CSS pesudo-classes</h1>
+        <ul>
+            <li>:root</li>
+            <li>:hover: các thẻ có lớp giả này sẽ được kích hoạt khi di chuột tới</li>
+            <li>:active: các thẻ có lớp giả này sẽ được kích hoạt khi click và giữ chuột tới</li>
+            <li>:first-child dùng cho phần tử đầu trong list</li>
+            <li>:last-child dùng cho phần tử cuối trong list</li>
+        </ul>
+    </body>
+</html>

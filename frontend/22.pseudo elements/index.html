@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+    <head>
+        <title>pseudo element</title>
+        <meta charset = 'utf-8'>
+        <style>
+            .box {
+                width: 100%;
+                height: 120px;
+                background: rgb(190, 124, 157);
+            }
+
+            .box::before {
+                content: "";
+                display: block;
+                width: 50px;
+                height: 50px;
+                background-color: #fff;
+             }
+
+            .box::after {
+            content: "";
+            display: block;
+            width: 50px;
+            height: 50px;
+            background-color: #fff;
+            }
+
+            h1::first-letter{
+                font-size: 50px;
+                color: red;
+            }
+
+            h1::selection {
+                background-color: violet;
+                color: #fff;
+            }
+          
+            .li-cla::first-line{
+                font-size: 50px;
+                background-color: violet;
+                color: #fff;
+            }
+            }
+        </style>
+    </head>
+    <body>
+        <div class = 'box'>Tạo ra các phần tử hiển thị lên website mà không cần viết mã html</div>
+        <h1> CSS pesudo-classes <br/> Đây là dòng thứ 2</h1>
+        <ul>
+            <li>::before mỗi element chỉ tồn tại được 2 phần tử giả là before và after, before luôn đứng đầu và after luôn đứng cuối</li>
+            <li>::after</li>
+            <li>::first-letter viết hoa chữ cái đầu của thẻ</li>
+            <li class = 'li-cla'>::first-line</li>
+            <li>::selection thuộc tính xuất hiện khi click chuột vào thẻ</li>
+        </ul>
+    </body>
+</html>
