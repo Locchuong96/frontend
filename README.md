@@ -103,5 +103,7 @@ Hệ thống grid bootstrap
  https://www.w3schools.com/html/html_form_elements.asp
  
  https://www.w3schools.com/charsets/ref_emoji_smileys.asp
+ 
+ https://www.w3schools.com/charsets/ref_emoji.asp
         
         
