@@ -98,7 +98,8 @@ Hệ thống grid bootstrap
         </div>
     </div>
     
- ## icon and sympol
+ ## Icon and sympol
+ https://emojipedia.org/
  https://fsymbols.com/
  
  ## REFER
