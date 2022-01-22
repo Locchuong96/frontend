@@ -1,4 +1,4 @@
-https://img.shields.io/badge/repo%20status-learning-green
+!(status)[https://img.shields.io/badge/repo%20status-learning-green
  
 # Frontend
 html,css,javscript,Bootstrap,etc
