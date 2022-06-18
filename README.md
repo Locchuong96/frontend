@@ -9,8 +9,8 @@ html,css,javscript,Bootstrap,etc
 |2|[pixlr](https://pixlr.com/vn/x/)|design banner|
 |3|[ezgif](https://ezgif.com/maker)|ezgif maker|
 |4|[symbolcopy](https://www.symbolcopy.com/)|get sympol character|
-|5|[text art]([https://shields.io/](https://patorjk.com/))|convert text to art|
-|6|[text image]([https://shields.io/](https://www.text-image.com/))|convert text to image|
+|5|[text art](https://shields.io/](https://patorjk.com/))|convert text to art|
+|6|[text image](https://shields.io/](https://www.text-image.com/))|convert text to image|
 
 ### html,css
 
