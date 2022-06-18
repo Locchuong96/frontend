@@ -1,7 +1,18 @@
 # Frontend
 html,css,javscript,Bootstrap,etc
 
-# html,css
+### Tools
+
+|No|tool|descript|
+|---|---|---|
+|1|[diagrameditor](https://www.diagrameditor.com/)|drawing UML|
+|2|[pixlr](https://pixlr.com/vn/x/)|design banner|
+|3|[ezgif](https://ezgif.com/maker)|ezgif maker|
+|4|[symbolcopy](https://www.symbolcopy.com/)|get sympol character|
+|5|[text art]([https://shields.io/](https://patorjk.com/))|convert text to art|
+|6|[text image]([https://shields.io/](https://www.text-image.com/))|convert text to image|
+
+### html,css
 
 https://www.youtube.com/watch?v=R6plN3FvzFY&list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz
 
@@ -13,29 +24,29 @@ https://www.youtube.com/watch?v=R6plN3FvzFY&list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCM
 
 https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
 
-## Add colorzilla extension
+### Add colorzilla extension
 
 https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=vi
 
 ![Capture](https://user-images.githubusercontent.com/73679364/139242665-7e4f4885-f277-40ea-90d4-256867003e12.PNG)
 
-## Frontend webtool
+### Frontend webtool
 
 http://cactus.io/resources/toolbox/html-arrow-symbol-codes
 
 _______________________________________________________________________________________________________________________________________________________
 
-# Bootstrap
+### Bootstrap
 
 https://www.youtube.com/watch?v=-bbE-eUvYTI&list=PLxF76yfppeZY9Nn90xAAnA04AvzBiS9zA
 
 https://www.youtube.com/watch?v=qIewm54rTF4&list=RDCMUC8vjHOEYlnVTqAgE6CFDm_Q&start_radio=1&rv=qIewm54rTF4&t=1118
 
-## Download Bootstrap
+### Download Bootstrap
 
 https://getbootstrap.com/docs/5.1/getting-started/download/
 
-## CDN (content devilery network)
+### CDN (content devilery network)
 
 ## Starting
 ### 1/ html5 doctype
@@ -98,7 +109,7 @@ Hệ thống grid bootstrap
         </div>
     </div>
     
- ## Icon and sympol
+ ### Icon and sympol
  
  https://emojipedia.org/
  
@@ -106,7 +117,7 @@ Hệ thống grid bootstrap
  
  https://run.vn/
  
- ## REFER
+ ### REFER
  
  https://www.w3schools.com/html/html_form_elements.asp
  
