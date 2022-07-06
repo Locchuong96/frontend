@@ -1,7 +1,7 @@
-# Frontend
+### Frontend
 html,css,javscript,Bootstrap,etc
 
-### Tools
+**Tools**
 
 |No|tool|descript|
 |---|---|---|
@@ -11,42 +11,41 @@ html,css,javscript,Bootstrap,etc
 |4|[symbolcopy](https://www.symbolcopy.com/)|get sympol character|
 |5|[text art](https://shields.io/](https://patorjk.com/))|convert text to art|
 |6|[text image](https://shields.io/](https://www.text-image.com/))|convert text to image|
+|7|[diagrameditor](https://www.diagrameditor.com/)|drawing UML|
+|8|[symbolcopy](https://www.symbolcopy.com/)|get symbol character|
+|9|[shields](https://shields.io/)|create your own git badges|
+|10|[kleki](https://kleki.com/)|drawing sketch online|
 
-### html,css
+**html,css**
 
-https://www.youtube.com/watch?v=R6plN3FvzFY&list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz
+[html,css tutorial](https://www.youtube.com/watch?v=R6plN3FvzFY&list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz)
 
-### Install extentsion "live server"
+**Install extentsion "live server"**
 
 ![Capture](https://user-images.githubusercontent.com/73679364/139242953-feafce99-6d65-4d81-8584-475e82dd3189.PNG)
  
-### Add smart page ruler extension
+**Add smart page ruler extension**
 
 https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
 
-### Add colorzilla extension
+**Add colorzilla extension**
 
 https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=vi
 
 ![Capture](https://user-images.githubusercontent.com/73679364/139242665-7e4f4885-f277-40ea-90d4-256867003e12.PNG)
 
-### Frontend webtool
+**Frontend webtool**
 
 http://cactus.io/resources/toolbox/html-arrow-symbol-codes
+_______
 
-_______________________________________________________________________________________________________________________________________________________
+**Bootstrap**
 
-### Bootstrap
+[bootstrap tutorial](https://www.youtube.com/watch?v=-bbE-eUvYTI&list=PLxF76yfppeZY9Nn90xAAnA04AvzBiS9zA)
 
-https://www.youtube.com/watch?v=-bbE-eUvYTI&list=PLxF76yfppeZY9Nn90xAAnA04AvzBiS9zA
+[Download Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/download/)
 
-https://www.youtube.com/watch?v=qIewm54rTF4&list=RDCMUC8vjHOEYlnVTqAgE6CFDm_Q&start_radio=1&rv=qIewm54rTF4&t=1118
-
-### Download Bootstrap
-
-https://getbootstrap.com/docs/5.1/getting-started/download/
-
-### CDN (content devilery network)
+*Note: *CDN (content devilery network)
 
 ## Starting
 ### 1/ html5 doctype
