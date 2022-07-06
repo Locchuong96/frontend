@@ -24,19 +24,13 @@ html,css,javscript,Bootstrap,etc
 
 ![Capture](https://user-images.githubusercontent.com/73679364/139242953-feafce99-6d65-4d81-8584-475e82dd3189.PNG)
  
-**Add smart page ruler extension**
+[Add smart page ruler extension](https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg)
 
-https://chrome.google.com/webstore/detail/smart-page-ruler/nmibbjghlmdiafjolcphdggihcbcedmg
-
-**Add colorzilla extension**
-
-https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=vi
+[Add colorzilla extension](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=vi)
 
 ![Capture](https://user-images.githubusercontent.com/73679364/139242665-7e4f4885-f277-40ea-90d4-256867003e12.PNG)
 
-**Frontend webtool**
-
-http://cactus.io/resources/toolbox/html-arrow-symbol-codes
+[Frontend webtool](http://cactus.io/resources/toolbox/html-arrow-symbol-codes)
 _______
 
 **Bootstrap**
@@ -47,8 +41,9 @@ _______
 
 *Note: *CDN (content devilery network)
 
-## Starting
-### 1/ html5 doctype
+**Course note**
+
+**1/ html5 doctype**
 
     <!doctype html>
     <html lang = 'en'>
@@ -57,7 +52,7 @@ _______
       </head>
     </html>
 
-### 2/ mobile first
+**2/ mobile first**
     
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     
@@ -65,13 +60,13 @@ _______
    
    initial-scale = 1: mức zoom mặc định ban đầu
    
-### 3/ Khai báo CDN
+**3/ Khai báo CDN**
 
     <link rel = 'stylesheet' href = 'http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
     <script src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js'></script>
     <script src = 'http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
     
-### 4/ Container
+**4/ Container**
     
     container: cung cấp các layout có độ rộng cố định trong một lớp container
     
@@ -79,7 +74,7 @@ _______
     
    *Note: Các container này không được phép lồng vào nhau
    
-### 5/ Grid
+**5/ Grid**
 
 <img width="605" alt="bootstrap_4_grid" src="https://user-images.githubusercontent.com/73679364/139051320-8e992b27-7951-471c-88c7-e3d570dbf651.png">
 
@@ -107,21 +102,8 @@ Hệ thống grid bootstrap
         ...
         </div>
     </div>
-    
- ### Icon and sympol
  
- https://emojipedia.org/
+ **References**
  
- https://fsymbols.com/
- 
- https://run.vn/
- 
- ### REFER
- 
- https://www.w3schools.com/html/html_form_elements.asp
- 
- https://www.w3schools.com/charsets/ref_emoji_smileys.asp
- 
- https://www.w3schools.com/charsets/ref_emoji.asp
-        
+ [html-tutorial](https://www.w3schools.com/html/default.asp)
         
