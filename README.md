@@ -18,6 +18,7 @@ html,css,javscript,Bootstrap,etc
 |11|[favicon.io](https://favicon.io/favicon-generator/)|favicon customize|
 |12|[favicon.cc](https://www.favicon.cc/)|favicon generator|
 |13|[flavicon](https://www.flaticon.com/free-icons/copy)|favicon for copy-paste|
+|14|[emoji](https://getemoji.com/)|emoji|
 
 **html,css**
 
