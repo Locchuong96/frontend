@@ -19,7 +19,8 @@ html,css,javscript,Bootstrap,etc
 |12|[favicon.cc](https://www.favicon.cc/)|favicon generator|
 |13|[flavicon](https://www.flaticon.com/free-icons/copy)|favicon for copy-paste|
 |14|[emoji](https://getemoji.com/)|emoji|
-|14|[emoji unicode]([https://getemoji.com/](https://unicode.org/emoji/charts/full-emoji-list.html))|emoji unicode
+|15|[emoji unicode](https://unicode.org/emoji/charts/full-emoji-list.html))|emoji unicode|
+|16|[emojipedia](https://emojipedia.org/)|emoji unicode|
 
 **html,css**
 
