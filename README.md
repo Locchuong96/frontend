@@ -15,7 +15,8 @@ html,css,javscript,Bootstrap,etc
 |8|[symbolcopy](https://www.symbolcopy.com/)|get symbol character|
 |9|[shields](https://shields.io/)|create your own git badges|
 |10|[kleki](https://kleki.com/)|drawing sketch online|
-|11|[favicon](https://favicon.io/favicon-generator/)|favicon customize|
+|11|[favicon.io](https://favicon.io/favicon-generator/)|favicon customize|
+|11|[favicon.cc](https://www.favicon.cc/)|favicon generator|
 
 **html,css**
 
